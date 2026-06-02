@@ -1,1 +1,2 @@
-print("vaishnavi")+
+print("vaishnavi")
+print("shyam")
